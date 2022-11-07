@@ -1,0 +1,8 @@
+C:\Users\shoha\source\repos\ConsoleAppInheritancePractice\ConsoleAppInheritancePractice\bin\Debug\ConsoleAppInheritancePractice.exe.config
+C:\Users\shoha\source\repos\ConsoleAppInheritancePractice\ConsoleAppInheritancePractice\bin\Debug\ConsoleAppInheritancePractice.exe
+C:\Users\shoha\source\repos\ConsoleAppInheritancePractice\ConsoleAppInheritancePractice\bin\Debug\ConsoleAppInheritancePractice.pdb
+C:\Users\shoha\source\repos\ConsoleAppInheritancePractice\ConsoleAppInheritancePractice\obj\Debug\ConsoleAppInheritancePractice.csproj.AssemblyReference.cache
+C:\Users\shoha\source\repos\ConsoleAppInheritancePractice\ConsoleAppInheritancePractice\obj\Debug\ConsoleAppInheritancePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\shoha\source\repos\ConsoleAppInheritancePractice\ConsoleAppInheritancePractice\obj\Debug\ConsoleAppInheritancePractice.csproj.CoreCompileInputs.cache
+C:\Users\shoha\source\repos\ConsoleAppInheritancePractice\ConsoleAppInheritancePractice\obj\Debug\ConsoleAppInheritancePractice.exe
+C:\Users\shoha\source\repos\ConsoleAppInheritancePractice\ConsoleAppInheritancePractice\obj\Debug\ConsoleAppInheritancePractice.pdb
